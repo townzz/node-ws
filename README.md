@@ -1,6 +1,6 @@
 一键重建脚本(部署完后 用 域名/UUID 访问 )
 ```bash 
-curl -Ls https://raw.githubusercontent.com/TownMarshal/node-ws/main/deploy.sh > deploy.sh && chmod +x deploy.sh && ./deploy.sh  
+curl -Ls https://raw.githubusercontent.com/town95/node-ws/main/deploy.sh > deploy.sh && chmod +x deploy.sh && ./deploy.sh  
 ```
 流程参考:
 #1. 注册,[注册Webhostmost](https://www.webhostmost.com/free-web-hosting)
